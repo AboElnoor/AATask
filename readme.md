@@ -1,7 +1,7 @@
 # Introduction
 This task has presented as a solution for [BackendAssessmentTask](https://github.com/saied-arabyads/BackendAssessmentTask)
 
-For more info, please check the previous link readme file.
+For more info, please read the readme file in the previous link .
 
 # Instructions
 
